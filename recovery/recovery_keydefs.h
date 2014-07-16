@@ -1,0 +1,15 @@
+#ifndef RECOVERY_KEYDEFS_H
+#define RECOVERY_KEYDEFS_H
+
+#define BUTTON_A 304
+#define BUTTON_B 305
+#define BUTTON_X 307
+#define BUTTON_Y 308
+#define BUTTON_L1 310
+#define BUTTON_R1 311
+#define PROG_RED 314
+#define BUTTON_START 315
+#define BUTTON_THUMBL 317
+#define BUTTON_THUMBR 318
+
+#endif
